@@ -11,4 +11,4 @@ My project uses:
 
 ## Circuit Diagram
 
-![Arduino Memory Game Circuit](img/circuit_diagram.png)
+![Arduino Memory Game Circuit](img/memory_game.png)
