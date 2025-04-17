@@ -8,3 +8,7 @@ My project uses:
 - 4 push buttons (connected to pins 3, 5, 7, 9),
 - Buzzer (connected to pin 11),
 - Resistors and connecting wires.
+
+## Circuit Diagram
+
+![Arduino Memory Game Circuit](img/circuit_diagram.png)
